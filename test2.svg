@@ -1,0 +1,14 @@
+<svg version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="1300" height="1300">
+<rect height="37.0" width="68.0" y="39.0" x="70.0" stroke-width="1" stroke="rgb(255, 127, 255)" fill="rgb(255, 127, 255)"/>
+<line x1="199.0" y1="76.0" x2="143.0" y2="128.0" stroke-width="1" stroke="rgb(255, 127, 255)"/>
+<ellipse cx="142.0" cy="232.5" rx="46.0" ry="31.5" fill="rgb(255, 0, 0)" stroke-width="1" stroke="rgb(0, 0, 0)"/>
+<polygon points="294.0,140.0 373.0,157.0 302.0,276.0" fill="rgb(0, 0, 255)" stroke-width="5" stroke="rgb(255, 0, 0)"/>
+<path id="svg_1" d="M 215.0,332.0 C 250.0,257.0 355.0,332.0 215.0,382.0 M 215.0,332.0 C 180.0,257.0 75.0,332.0 215.0,382.0" fill="rgb(0, 0, 255)" stroke="rgb(255, 0, 0)" stroke-width="5"/>
+<polygon points="442.0,71.0 452.0,86.0 467.0,86.0 457.0,101.0 462.0,116.0 442.0,106.0 422.0,116.0 427.0,101.0 417.0,86.0 432.0,86.0" fill="rgb(0, 0, 255)" stroke-width="5" stroke="rgb(255, 0, 0)"/>
+<polygon points="310.0,61.0 320.0,61.0 320.0,71.0 330.0,71.0 330.0,81.0 320.0,81.0 320.0,91.0 310.0,91.0 310.0,81.0 300.0,81.0 300.0,71.0 310.0,71.0" fill="rgb(0, 0, 255)" stroke-width="5" stroke="rgb(255, 0, 0)"/>
+</svg>
